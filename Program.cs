@@ -8,7 +8,9 @@ namespace newfolder {
        //ye ek name enter karwane ka code hai 
         // Console.WriteLine("Hey There!! Who Are You ?");
         // string name = Console.ReadLine();
-        // Console.WriteLine($"Hey {name}, Thanks for coming");
+        // Console.WriteLine($"Hey {name}, Thanks for coming");  
+
+            
 
 
 // Console.WriteLine("Enter the first value please");
